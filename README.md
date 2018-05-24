@@ -1,5 +1,7 @@
-raix:eventddp
+jaredhliu:eventddp
 ==============
+
+Base on raix:eventddp, only add check() in publish to avoid warning.
 
 This package adds events over ddp, so you can emit and listen to events from client and server.
 
